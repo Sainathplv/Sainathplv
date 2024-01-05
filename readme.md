@@ -2,7 +2,7 @@
 ## 👋 Hey there! It's me Sainath Palavala!!!
 
 <p align='right'>~ You may also know me as Sainathplv !</strong></p>                                                                                    
-
+---
 
 ## 🚀 About Me
 * I am an enthusiastic full stack developer...,data Scientist and data Engineer 😎, venturing into new horizons.
@@ -50,6 +50,14 @@ if __name__ == '__main__':
     obj.display_current_favourites()
 
 ```
+---
+<h3> Paper 📝 </h3>
+
+* Regression Models for Price Prediction based on Uber and Lyft (API's)
+* RiceLeaf Disease Detection using CNN,VGG-16 and Transfer Learning
+
+
+
 ## Tech Stack 💻 
 
 🛠 Language
