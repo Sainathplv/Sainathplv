@@ -2,7 +2,8 @@
 ## 👋 Hey there! It's me Sainath Palavala!!!
 
 <p align='right'>~ You may also know me as Sainathplv !</strong></p>                                                                                    
-___
+
+---
 
 ## 🚀 About Me
 * I am an enthusiastic full stack developer...,data Scientist and data Engineer 😎, venturing into new horizons.
