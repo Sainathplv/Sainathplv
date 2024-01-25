@@ -31,7 +31,7 @@ ___
 class AreasOfInterest:
     def __init__(self):
         self.role = "Full Stack Developer/Data Engineer/Machine Learning Engineer"
-        self.current_favourite = ["Generative AI (LLM)", "Cloud Computing"]
+        self.current_favourite = ["Generative AI (LLM)", "Cloud Computing","Application Devolpment"]
         self.favourite_topics = ['Data Science', 'Algorithms & Data Structures', 'Full Stack Development', 'Cloud Computing', 'System Design', 'Mathematics']
 
     def display_favourites(self):
