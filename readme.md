@@ -14,7 +14,7 @@
 
 * My adventure into data science started with an innate curiosity to reveal concealed trends and a drive to address practical challenges.
 
-* 🤝  I'm open to collaborating on exciting projects as a Data Engineer/Data Scientist, Full stack Devolper or MachineLearning Engineer.
+* 🤝  I'm open to collaborating on exciting projects as a Data Engineer/Data Scientist, Full stack Development/ Application Development or MachineLearning Projects.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainath-reddy-palavala-219782227/)
