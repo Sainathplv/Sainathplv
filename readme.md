@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-* I am an enthusiastic full stack developer...,data Scientist and data Engineer 😎, venturing into new horizons.
+* I am an enthusiastic Full Stack Developer...,Data Scientist and Data Engineer 😎, venturing into new horizons.
 
 * Graduated in Computer Science 🎓.
 
